@@ -15,6 +15,8 @@ AI diffusion is defined as the **share of people who have used a generative AI p
 
 This repository provides the **country-level datasets** used in the published reports, along with archived report PDFs.
 
+## Citation
+
 To cite this work and for full methodological details, see the technical paper:
 - Misra, A., Wang, J., McCullers, S., White, K., & Lavista Ferres, J. (2025). *Measuring AI Diffusion: A Population-Normalized Metric for Tracking Global AI Usage*. arXiv. https://doi.org/10.48550/arXiv.2511.02781
 
