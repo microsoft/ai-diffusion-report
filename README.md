@@ -3,11 +3,9 @@
 
 This repository contains the datasets and report materials for Microsoft’s **AI Diffusion** research, produced by the AI Economy Institute (AIEI).
 
-The AI Diffusion report tracks global adoption of generative AI, measuring the share of people who have used AI tools across countries and over time.
-
 ## Overview
 
-AI diffusion is defined as the **share of people who have used a generative AI product during a given period**. The measure is derived from aggregated and anonymized telemetry and adjusted to account for differences in:
+AI diffusion is defined as the **share of the working-age population who have used a generative AI product during a given period**. The measure is derived from aggregated and anonymized telemetry and adjusted to account for differences in:
 
 - Device and operating system market share  
 - Internet penetration  
